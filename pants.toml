@@ -1,0 +1,22 @@
+[GLOBAL]
+pants_version = "1.29.0"
+enable_pantsd = false
+fail_fast = true
+
+plugins = [
+  'pantsbuild.pants.contrib.scrooge==%(pants_version)s',
+  'pantsbuild.pants.contrib.node==%(pants_version)s',
+]
+
+[scala]
+version = 2.12
+
+[jvm-platform]
+default_platform = "java8"
+platforms = """{
+  'java8': {'source': '8', 'target': '8', 'args': [] },
+  'java11': {'source': '11', 'target': '11', 'args': [] },
+}"""
+
+[source]
+root_patterns = ['/src/java', '/src/python', '/src/scala', '/src/thrift', '/benchmark/scala', '/swagger/scala', '/test/scala']

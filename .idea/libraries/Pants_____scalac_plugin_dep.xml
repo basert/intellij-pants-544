@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Pants: //:scalac-plugin-dep">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.cache/pants/coursier/https/maven-central.storage-download.googleapis.com/maven2/org/scala-lang/scala-library/2.12.11/scala-library-2.12.11.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/pants/coursier/https/maven-central.storage-download.googleapis.com/maven2/org/scalameta/semanticdb-scalac_2.12.8/4.3.22/semanticdb-scalac_2.12.8-4.3.22.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.cache/pants/coursier/https/maven-central.storage-download.googleapis.com/maven2/org/scala-lang/scala-library/2.12.11/scala-library-2.12.11-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/pants/coursier/https/maven-central.storage-download.googleapis.com/maven2/org/scalameta/semanticdb-scalac_2.12.8/4.3.22/semanticdb-scalac_2.12.8-4.3.22-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.cache/pants/coursier/https/maven-central.storage-download.googleapis.com/maven2/org/scala-lang/scala-library/2.12.11/scala-library-2.12.11-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.cache/pants/coursier/https/maven-central.storage-download.googleapis.com/maven2/org/scalameta/semanticdb-scalac_2.12.8/4.3.22/semanticdb-scalac_2.12.8-4.3.22-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

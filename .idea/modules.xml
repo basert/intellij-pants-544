@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/.-project-root.iml" filepath="$USER_HOME$/.-project-root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pants-projects/c6c4b5d92fd8aeb1dafbf737dd4d9772aa72a39a/._module.iml" filepath="$PROJECT_DIR$/.idea/pants-projects/c6c4b5d92fd8aeb1dafbf737dd4d9772aa72a39a/._module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pants-projects/c6c4b5d92fd8aeb1dafbf737dd4d9772aa72a39a/___scalac-plugin-dep/___scalac-plugin-dep.iml" filepath="$PROJECT_DIR$/.idea/pants-projects/c6c4b5d92fd8aeb1dafbf737dd4d9772aa72a39a/___scalac-plugin-dep/___scalac-plugin-dep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pants-projects/c6c4b5d92fd8aeb1dafbf737dd4d9772aa72a39a/___scrooge-gen/___scrooge-gen.iml" filepath="$PROJECT_DIR$/.idea/pants-projects/c6c4b5d92fd8aeb1dafbf737dd4d9772aa72a39a/___scrooge-gen/___scrooge-gen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pants-projects/c6c4b5d92fd8aeb1dafbf737dd4d9772aa72a39a/___scrooge-linter/___scrooge-linter.iml" filepath="$PROJECT_DIR$/.idea/pants-projects/c6c4b5d92fd8aeb1dafbf737dd4d9772aa72a39a/___scrooge-linter/___scrooge-linter.iml" />
+    </modules>
+  </component>
+</project>

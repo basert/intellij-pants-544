@@ -1,0 +1,19 @@
+# NB: The scrooge tools do not mix their classpaths with the sources they interact with, and
+# therefore they do not need to use the `scala-platform` via scala_jar.
+
+TWITTER_VERSION = "20.8.1"
+
+jar_library(name = 'scrooge-gen',
+            jars = [
+                scala_jar(org='com.twitter', name='scrooge-generator', rev=TWITTER_VERSION)
+            ])
+
+jar_library(name = 'scrooge-linter',
+            jars = [
+                scala_jar(org='com.twitter', name='scrooge-linter', rev=TWITTER_VERSION)
+            ])
+
+jar_library(name = 'scalac-plugin-dep',
+            jars = [
+                jar(org='org.scalameta', name='semanticdb-scalac_2.12.8', rev='4.3.22')
+            ])

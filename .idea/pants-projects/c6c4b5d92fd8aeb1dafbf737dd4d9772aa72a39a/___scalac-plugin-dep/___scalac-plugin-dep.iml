@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="//:scalac-plugin-dep" external.linked.project.path="$MODULE_DIR$/../../../../:scalac-plugin-dep" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="pants" external.system.module.type="pants.module" pants.library.excludes="[]" pants.linked.project.path="$MODULE_DIR$/../../../.." pants.target.address.infos="[{&amp;quot;targetAddress&amp;quot;:&amp;quot;//:scalac-plugin-dep&amp;quot;,&amp;quot;target_type&amp;quot;:&amp;quot;SOURCE&amp;quot;,&amp;quot;globs&amp;quot;:{&amp;quot;globs&amp;quot;:[]},&amp;quot;pants_target_type&amp;quot;:&amp;quot;jar_library&amp;quot;,&amp;quot;is_synthetic&amp;quot;:false,&amp;quot;is_target_root&amp;quot;:true,&amp;quot;id&amp;quot;:&amp;quot;.scalac-plugin-dep&amp;quot;}]" pants.target.addresses="[&amp;quot;//:scalac-plugin-dep&amp;quot;]" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <orderEntry type="jdk" jdkName="1.8_from_/workspace/labs/pants-554/pants" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="Pants: //:scalac-plugin-dep" level="project" />
+  </component>
+</module>
